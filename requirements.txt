@@ -1,0 +1,8 @@
+requests
+requests[socks]
+bs4
+user_agent
+youtube_dl
+requests_toolbelt
+telethon
+tenacity
